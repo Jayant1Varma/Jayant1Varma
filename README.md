@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hi 👋, I'm Jayant</h1>
-<h3 align="center">A passionate software developer and Mathematician</h3>
+<h3 align="center">A passionate software developer and Mathematician in the making</h3>
 
 - 🔭 I’m currently working on **YU-Hacks Hackathon website**
 
