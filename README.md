@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://jayant1varma.github.io/resume.pdf](https://jayant1varma.github.io/resume.pdf)
 
-- ⚡ Fun fact **I want to climb mountains (soon)**
+- ⚡ Fun facts **I want to climb mountains (soon)**, I ran a half marathon in 1:58, and play Tennis
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
