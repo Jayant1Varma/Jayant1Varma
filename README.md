@@ -18,9 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jayant</h1>
 <h3 align="center">A passionate software developer and Mathematician in the making</h3>
 
-- 🌱 I’m currently learning **Machine Learning, Computer Networks, Artificial intelligence with Proglog, and Linear Optimizations**
+- 🌱 I’m currently a machine learning and computer vision researcher at the univeristy of Augsburg
 
-- 👯 I’m looking to collaborate on **any project involving new *cool* tech or mathematical analysis**
 
 - 👨‍💻 All of my projects are available here in my github, but will soon be on my website at [https://jayant1varma.github.io/projects](https://jayant1varma.github.io/projects)
 
@@ -32,7 +31,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [https://jayant1varma.github.io/resume.pdf](https://jayant1varma.github.io/resume.pdf)
 
-- ⚡ Fun facts **I want to climb mountains (soon)**, I ran a half marathon in 1:58, and play Tennis
+- ⚡ Fun facts I climb mountains, play music, and do sports often
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
