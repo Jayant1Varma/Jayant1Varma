@@ -18,20 +18,21 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jayant</h1>
 <h3 align="center">A passionate software developer and Mathematician in the making</h3>
 
-- 🌱 I’m currently a machine learning and computer vision researcher at the univeristy of Augsburg
+- 🌱 I’m currently a computer vision researcher at Tsotsos lab at York University, Toronto, Canada.
+- My experience also includes a junior robotics engieneer at Elder Lab at York Univesity, a computational Physicist at Allan I. Carswell observatory, Toronto ,and a Machine learning and computer vision researcher at University of Augsburg, Germany.
 
 
 - 👨‍💻 All of my projects are available here in my github, but will soon be on my website at [https://jayant1varma.github.io/projects](https://jayant1varma.github.io/projects)
 
-- 📝 I sometimes write articles on [https://jayant1varma.github.io/#home](https://jayant1varma.github.io/#home)
+- 📝 I write blogs on [https://jayant1varma.github.io/#home](https://jayant1varma.github.io/#home)
 
-- 💬 Ask me about **Amortized analysis, OS, architectures and design patterns**
+- 💬 Ask me about **Exoplanets, Languages, Nature, and math!**
 
 - 📫 How to reach me **jayantvarma32@gmail.com**
 
-- 📄 Know about my experiences [https://jayant1varma.github.io/resume.pdf](https://jayant1varma.github.io/resume.pdf)
+- 📄 Here's my resume! [https://jayant1varma.github.io/resume.pdf](https://jayant1varma.github.io/resume.pdf)
 
-- ⚡ Fun facts I climb mountains, play music, and do sports often
+- ⚡ Fun facts I climb mountains, play music, and often play sports
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
