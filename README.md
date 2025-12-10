@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Jayant</h1>
 <h3 align="center">A passionate Computer Science researcher and Mathematician in the making</h3>
 
-- 🌱 I’m currently a computer vision researcher at Tsotsos lab at York University, Toronto, Canada.
-- My experience also includes a junior robotics engieneer at Elder Lab at York Univesity, a computational Physicist at Allan I. Carswell observatory, Toronto ,and a Machine learning and computer vision researcher at University of Augsburg, Germany.
+- 🌱 I’m a MSc. student at York University, Toronto, Canada.
+- My experience includes research assistance at Tsotsos Lab, a junior robotics engineer at Elder Lab at York Univesity, a volunteer computational Physicist at Allan I. Carswell observatory, and a Machine learning and computer vision researcher at University of Augsburg, Germany.
 
 
 - 👨‍💻 All of my projects are available here in my github, but will soon be on my website at [https://jayant1varma.github.io/projects](https://jayant1varma.github.io/projects)
@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 📄 Here's my resume! [https://jayant1varma.github.io/resume.pdf](https://jayant1varma.github.io/resume.pdf)
 
-- ⚡ Fun facts I climb mountains, play music, and often play sports
+- ⚡ Fun facts: I climb mountains, play music, and often play sports
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
